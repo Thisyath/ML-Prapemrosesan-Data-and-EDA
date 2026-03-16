@@ -1,0 +1,18 @@
+# Folder environment
+.venv/
+
+# Folder data mentah
+Data/sample_submission.csv
+Data/test.csv
+Data/train.csv
+
+# Folder hasil preprocessing dan encoding
+TrainWorking/minmax_scaler.pkl
+TrainWorking/ordinal_encoder_contract.pkl
+TrainWorking/standard_scaler.pkl
+TrainWorking/X_test_final.csv
+TrainWorking/X_train_final.csv
+TrainWorking/y_train.csv
+
+# File gambar yang muncul di folder proyek
+*.png
